@@ -1,38 +1,9 @@
-DeepSeek
-梁文锋
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
 特斯拉
 马斯克
-
-微软
-Microsoft
 
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -42,7 +13,6 @@ deepmind
 chatgpt
 openai
 sora
-
 claude
 Anthropic
 
@@ -80,3 +50,15 @@ ai
 铜矿
 金矿
 紫金矿业
+
+伊朗
+美国
+俄罗斯
+伊朗战争
+俄乌冲突
+稀土
+煤炭
+石油
+中东局势
+黄金
+铜价
